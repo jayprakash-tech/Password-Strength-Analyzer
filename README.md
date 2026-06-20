@@ -30,7 +30,7 @@ Based on the total score, the script prints a strength rating and improvement ti
 This project can be used to understand the basic logic behind password policy checks and secure password creation.
 
 ## Sample Output
-![[Password Analyzer Output](password-analyzer-output.png](https://github.com/jayprakash-tech/Password-Strength-Analyzer/blob/main/password-analyzer-output.PNG))
+![Password Analyzer Output](password-analyzer-output.PNG)
 
 ## Ethical Note
 This project is designed for educational purposes only. It does not store passwords or connect to external systems.
